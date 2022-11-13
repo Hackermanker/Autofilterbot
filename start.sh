@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Autofilter-bot
 fi
-cd /TovinoBotV3
+cd /Autofilter-bot
 pip3 install -U -r requirements.txt
 echo "Starting Autofilter-bot...."
 python3 bot.py
