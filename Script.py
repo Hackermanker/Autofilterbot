@@ -1,10 +1,10 @@
 class script(object):
-    START_TXT = """<b>𝖧i {}, <b>How are you? 🙌</b>
+    START_TXT = """<b>𝖧i {}, <b>What's upp? 🙌</b>
 <b>𝖨'𝗆 an Autofilter bot that provides movies </b>
 
 <b> 𝗃𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉 𝖺𝗌 𝖺𝖽𝗆𝗂n to get movies</b>
 """
-    HELP_TXT = """<b>𝖧𝖾𝗋𝖾 𝗂𝗌 𝗍𝗁𝖾 𝖴𝗌𝗎𝖺𝗅 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌:</b>
+    HELP_TXT = """<b>𝖧𝖾𝗋𝖾 is the 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌:</b>
 """
     GTRANS_TXT = """<b>𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝗈𝗋</b>
 - 𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾 𝗍𝖾𝗑𝗍𝗌 𝗍𝗈 𝖺 𝗌𝗉𝖾𝖼𝗂𝖿𝗂𝖼 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾!
@@ -24,13 +24,13 @@ class script(object):
 - /stickerid - 𝖦𝖾𝗍 𝖨𝖣
 """
     ABOUT_TXT = """
-🔺 𝖬𝗒 𝖭𝖺𝗆e : Autofilter-bot
+🔺 My name : Autofilter-bot
 🔺 Developed by : <a href='https://t.me/Astra_Botz'>Astra Botz</a>
-🔺 Written in : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
-🔺 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
+🔺 Written in : Python
+🔺 Library : Pyrogram
 🔺 Deployed on : Heroku
-🔺 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
-🔺 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : Healthy🟢
+🔺 Database : <a href='https://www.mongodb.com'>MongoDB</a>
+🔺 Status : Healthy🟢
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - it's a kanged project from many repo's  
