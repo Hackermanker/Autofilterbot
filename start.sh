@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/DKBOTx/TovinoBotV3.git /TovinoBotV3
+  git clone https://github.com/Hackermanker/Autofilter-bot.git /Autofilter-bot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /TovinoBotV3
+  git clone $UPSTREAM_REPO /Autofilter-bot
 fi
 cd /TovinoBotV3
 pip3 install -U -r requirements.txt
-echo "Starting 𝘋𝘒_𝘉𝘖𝘛𝘹...."
+echo "Starting Autofilter-bot...."
 python3 bot.py
