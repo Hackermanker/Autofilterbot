@@ -6,13 +6,9 @@
   <b> Autofilter-bot </b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/Hackermanker/Autofilter-Bot?style=flat-square&color=yellow)](https://github.com/Hackermanker/Autofilter-bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/Hackermanker/Autofilter-bot?style=flat-square&color=orange)](https://github.com/Hackermanker/Autofilter-bot/fork)
-[![Size](https://img.shields.io/github/repo-size/Hackermanker/Autofilter-bot?style=flat-square&color=green)](https://github.com/Hackermanker/Autofilter-bot/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/Hackermanker/Autofilter-bot/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+<p align="center">
+  <Fork The repo to avoid some silly errors and do ⭐ the repo
+</p>
 
 ## Deploy
 
