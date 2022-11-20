@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <Fork The repo to avoid some silly errors and do ⭐ the repo
+  Fork The repo to avoid some silly errors and do ⭐ the repo
 </p>
 
 ## Deploy
