@@ -21,6 +21,7 @@ def redirected_env(value):
         return 'Chat'
 
 # Bot information
+PORT = environ.get("PORT", "8080")
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ['API_ID'])
 API_HASH = environ['API_HASH']
