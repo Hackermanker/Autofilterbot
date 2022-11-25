@@ -13,7 +13,6 @@ from database.ia_filterdb import Media
 from database.users_chats_db import db
 from info import SESSION, API_ID, API_HASH, BOT_TOKEN, LOG_STR, LOG_CHANNEL, PORT
 from utils import temp
-from plugins import web_server
 from aiohttp import web
 
 class Bot(Client):
