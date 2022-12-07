@@ -1,3 +1,4 @@
+aiohttp
 git+https://github.com/subinps/pyrogram@inline-m
 tgcrypto
 pymongo[srv]==3.12.3
