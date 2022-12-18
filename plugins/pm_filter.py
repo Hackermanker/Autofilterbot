@@ -441,7 +441,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                             InlineKeyboardButton('🍿 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖫𝗂𝗇𝗄  ', url = msg.link)
                         ],                       
                         [
-                            InlineKeyboardButton("☎️ Not getting ", url=f'https://t.me/astrageon')
+                            InlineKeyboardButton("☎️ Not getting ", url=f'https://t.me/botsupportastra')
                         ]
                     ]
                 )
