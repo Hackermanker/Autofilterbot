@@ -11,9 +11,6 @@ git+https://github.com/Joelkb/cinemagoer
 aiofiles
 telegraph
 pyrogram
-youtube_search_python
-youtube_search
-ytthumb
 ffmpeg-python
 googletrans==4.0.0-rc1
 carbonnow==0.0.1
@@ -32,5 +29,4 @@ countryinfo
 python-telegram-bot==11.1.0
 pyromod~=1.5
 gtts
-yt_dlp
 wget
