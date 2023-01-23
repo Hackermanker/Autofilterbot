@@ -1,3 +1,7 @@
+youtube_search_python
+youtube_search
+ytthumb
+yt_dlp
 aiohttp
 git+https://github.com/subinps/pyrogram@inline-m
 tgcrypto
