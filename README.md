@@ -36,3 +36,9 @@
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `Support`: Your support chat.
+
+# credits 
+Team evamaria
+Subin ps
+Trojanzhex
+DK for his tovinio as i just added koyeb support when there were no repos at the time of heroku started paid service.
