@@ -38,7 +38,8 @@
 * `Support`: Your support chat.
 
 # credits 
-Team evamaria
-Subin ps
-Trojanzhex
+Team evamaria,
+Subin ps,
+Trojanzhex,
 DK for his tovinio as i just added koyeb support when there were no repos at the time of heroku started paid service.
+(You can check out the contributors tag below to get their profiles and more info)
