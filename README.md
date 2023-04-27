@@ -1,3 +1,9 @@
+# credits 
+Team evamaria,
+Subin ps,
+Trojanzhex,
+DK for his tovino as i just added koyeb support when there were no repositories at the time when heroku started paid service.
+(You can check out the contributors section below to get their profiles and more info)
 <h1 align="center">
   <b> Autofilter-bot </b>
 </h1>
@@ -37,9 +43,3 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `Support`: Your support chat.
 
-# credits 
-Team evamaria,
-Subin ps,
-Trojanzhex,
-DK for his tovinio as i just added koyeb support when there were no repos at the time of heroku started paid service.
-(You can check out the contributors tag below to get their profiles and more info)
